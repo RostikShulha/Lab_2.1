@@ -1,0 +1,5 @@
+﻿Build started...
+1>------ Build started: Project: OPP_Lab2, Configuration: Debug Any CPU ------
+1>  OPP_Lab2 -> C:\Users\shulg\source\repos\OPP_Lab2\OPP_Lab2\bin\Debug\OPP_Lab2.exe
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
+========== Build started at 10:53 and took 00,132 seconds ==========
